@@ -1,0 +1,5 @@
+{
+  "name": " Temperature Prediction",
+  "description": "A comprehensive dashboard for comparing machine learning models (Persistence, Linear Regression, KNN, GRU) and performing real-time temperature forecasting.",
+  "requestFramePermissions": []
+}
